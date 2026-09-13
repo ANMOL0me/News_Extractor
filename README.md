@@ -136,4 +136,4 @@ By default, `Main.java` sends the query `"artificial intelligence"` — edit the
 
 ## License
 
-This project is available under the [MIT License](LICENSE).
+This project is available under the Educational Purpose.
